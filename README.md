@@ -68,9 +68,9 @@ ___
    * open in your Browser localhost:4040 to enter in the Spark UI
    
    
-![Spark UI](screenshots/spark_job_01.png)
-![Spark UI](screenshots/spark_job_02.png)
-![Spark UI](screenshots/spark_job_03.png)
+![Spark UI](screenshots/spark_jobs_01.png)
+![Spark UI](screenshots/spark_jobs_02.png)
+![Spark UI](screenshots/spark_jobs_03.png)
 ***
 #### Question 1
 
